@@ -7,7 +7,7 @@ int main()
 {
     long n;
 
-    cin >> n;
+    cin >> n; // maan ke chal rhe hai ki Prime number hai.
 
     bool flag = true;
 
@@ -15,7 +15,7 @@ int main()
     {
         if( n % i == 0)
         {
-            flag = false;
+            flag = false; // Prime number nahi hai. Kyuki = 0 matlab Divisible , Factor mil gye other than 1 & n (itself).
             break;
         }
 
