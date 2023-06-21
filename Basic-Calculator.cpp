@@ -15,7 +15,7 @@ int main()
         cin >> b;
         cout << "\n";
 
-        cout << "Enter Operation to perform (+, -, /, %. *) or x to break: " << "\n";
+        cout << "Enter Operation to perform (+, -, /, %, *) or x to break: " << "\n";
         cin >> ch;
         
         if(ch == 'X' || ch == 'x')
