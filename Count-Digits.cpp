@@ -1,4 +1,3 @@
-// GFG Version
 #include <iostream>
 
 using namespace std;
