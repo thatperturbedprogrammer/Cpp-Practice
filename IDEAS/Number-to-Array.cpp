@@ -26,6 +26,4 @@ int main()
         cout << n_A.at(j) << ' ';
     }
 
-
-
 }
